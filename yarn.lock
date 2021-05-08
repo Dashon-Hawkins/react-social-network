@@ -1995,6 +1995,10 @@ emojis-list@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-2.1.0.tgz#4daa4d9db00f9819880c79fa457ae5b09a1fd389"
 
+empty-dir@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/empty-dir/-/empty-dir-0.1.0.tgz#4915bd8b63773c3f458b2dc50339c908849c84f0"
+
 encodeurl@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.2.tgz#ad3ff4c86ec2d029322f5a02c3a9a606c95b3f59"
@@ -5846,6 +5850,12 @@ postcss@^6.0.0, postcss@^6.0.1, postcss@^6.0.13:
     source-map "^0.6.1"
     supports-color "^5.2.0"
 
+postgresql@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/postgresql/-/postgresql-0.0.1.tgz#f07c179d937e0c54ee735a15eb2e462b1967ab70"
+  dependencies:
+    empty-dir "^0.1.0"
+
 prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
@@ -7844,8 +7854,8 @@ typescript@^2.7.1:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.2.tgz#2d615a1ef4aee4f574425cdff7026edf81919836"
 
 ua-parser-js@^0.7.9:
-  version "0.7.17"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.17.tgz#e9ec5f9498b9ec910e7ae3ac626a805c4d09ecac"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uc.micro@^1.0.1:
   version "1.0.5"
