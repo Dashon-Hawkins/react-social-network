@@ -33,7 +33,7 @@
     "inversify": "^4.6.0",
     "jss-rtl": "^0.2.1",
     "keycode": "^2.1.9",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "material-ui": "^1.0.0-beta.34",
     "material-ui-icons": "^1.0.0-beta.17",
     "moment": "^2.18.1",
